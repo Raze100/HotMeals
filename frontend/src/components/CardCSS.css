@@ -1,0 +1,50 @@
+.card-container{
+    margin-left: 10vh;
+    margin-bottom: 10vh;
+    margin-right: 10vh;
+    width: 40vh;
+    max-height: 300px;
+    display: block;
+    background-color: black;
+    border-radius: 20px;
+}
+
+.frame{
+    margin: 15px;
+}
+.card-img-top{
+    height: 190px;
+    margin-top: 15px;
+    border-radius: 15px;
+
+}
+
+.selection{
+    margin:0px;
+    background: black ;
+    border-radius: 0 0 20px 20px;
+
+}
+
+.card-title{
+    font-size: 22px;
+    margin-left: 25%;
+}
+
+.price{
+    font-size: 18px;
+    justify-content: center;
+    margin-left: 37%;
+}
+
+.selections{
+    background:red;
+    margin: 10px ;
+    border-radius: 10px;
+}
+
+.addbtn{
+    border-radius: 15px;
+    background: red;
+    margin-left: 40px;
+}

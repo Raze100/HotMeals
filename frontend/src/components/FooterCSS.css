@@ -1,0 +1,9 @@
+.footer{
+    background: linear-gradient(
+        45deg,
+        red,
+        orange,
+        yellow
+    );
+    display: block;
+}

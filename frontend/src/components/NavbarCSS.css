@@ -1,0 +1,9 @@
+.navbar{
+    background: linear-gradient(45deg,red,orange,yellow);
+}
+
+.navbar-brand{
+    font-style: italic;
+    font-size: large;
+    align-items: start\;
+}

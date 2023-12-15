@@ -1,0 +1,21 @@
+.login-bg{
+    background-image: url(https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg?auto=compress&cs=tinysrgb&w=800) ;
+    
+
+}
+
+.login-container{
+    background: linear-gradient(
+        45deg,
+        red,
+        orange,
+        yellow
+    );
+    width: 70vh;
+    justify-content: center;
+    align-items: center;
+    margin :10vh 10vh 10vh 80vh;
+    display:flex;
+    
+    border-radius: 5vh;
+}
